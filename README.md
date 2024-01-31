@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amrit Chapagain</h1>
 <h3 align="center">A passionate new developer from Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://search.brave.com/images?q=animated%20coding%20gif">
-
-<p align="left"> <img src="https://imgs.search.brave.com/jV2dw78OBO2sf1Kw0k5qxTKeSbHsA2zawt2YFprqCqk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhOR3B1TmpCbGNU/SnZhWFp6ZURKa2Qz/YzNPSFZzWXpnemFq/VnRPV0Y1Y1dnemJI/bDVaR04wY0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vMjZ0bjMzYWlU/aTFqa2w2SDYvMjAw/LmdpZg.gif" alt="amritchapagain" /> </p>
+<p align="center"> <img src="https://imgs.search.brave.com/jV2dw78OBO2sf1Kw0k5qxTKeSbHsA2zawt2YFprqCqk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhOR3B1TmpCbGNU/SnZhWFp6ZURKa2Qz/YzNPSFZzWXpnemFq/VnRPV0Y1Y1dnemJI/bDVaR04wY0NabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vMjZ0bjMzYWlU/aTFqa2w2SDYvMjAw/LmdpZg.gif" alt="amritchapagain" /> </p>
 
 - 🔭 I’m currently working on **JavaScript**
 
